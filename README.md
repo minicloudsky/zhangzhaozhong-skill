@@ -23,16 +23,22 @@
 
 ## 快速开始
 
-### 安装
+### 方式一：一键安装（推荐）
 
-将 `zhang-zhaozhong-perspective` 目录复制到你的 Claude Code skills 目录：
+```bash
+npx skills add minicloudsky/zhangzhaozhong-skill
+```
+
+安装完成后，Skill 会自动出现在你的 Claude Code skills 列表中，无需额外配置。
+
+### 方式二：手动安装
 
 ```bash
 # 克隆仓库
 git clone https://github.com/minicloudsky/zhangzhaozhong-skill.git
 
 # 复制到 Claude Code skills 目录
-cp -r zhangzhaozhong-skill ~/.claude/skills/
+cp -r zhangzhaozhong-skill ~/.claude/skills/zhang-zhaozhong-perspective
 ```
 
 ### 使用
