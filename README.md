@@ -29,10 +29,10 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/minicloudsky/zhang-zhaozhong-perspective.git
+git clone https://github.com/minicloudsky/zhangzhaozhong-skill.git
 
 # 复制到 Claude Code skills 目录
-cp -r zhang-zhaozhong-perspective ~/.claude/skills/
+cp -r zhangzhaozhong-skill ~/.claude/skills/
 ```
 
 ### 使用
